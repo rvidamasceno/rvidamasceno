@@ -1,71 +1,52 @@
 # Ravi Damasceno
 
-AI Software Engineering | AWS | MCP | APIs | AI Agents | AI Harness | Data Analysis | Energy Systems | Energy Matrix
+**Cloud & Automation Engineer | AWS · Python · n8n · APIs | AI Agents · LLM · RAG**
 
-I build practical software, cloud, data and automation workflows that use AI to improve accuracy, reduce manual work and speed up technical projects.
+[LinkedIn](https://www.linkedin.com/in/ravidamasceno/) · Salvador, Bahia, Brazil · Open to onsite, hybrid and remote opportunities
 
-My focus is connecting IT, cloud and AI to engineering and operations: AWS, APIs, MCP, AI agents, skills, AI Harness and data analysis applied to reliable, fast and measurable delivery.
+## About
 
-## Core Skills
+I work with cloud infrastructure, process automation and Artificial Intelligence, connecting systems, tools and data. Since June 2024, I have worked at **Konatus as a Cloud & Automation Engineer intern**.
 
-- AWS & Cloud: architecture, deployment, automation, scalability and operations
-- AI Software Engineering: LLMs, RAG, agents, skills and AI Harness
-- MCP & APIs: integrations between systems, tools, data sources and AI agents
-- Data Analysis: structured data, dashboards and evidence-based decisions
-- Energy Systems: electrical engineering, energy systems, efficiency and energy matrix
-- Project Efficiency: faster workflows, better traceability and more assertive technical decisions
+My career focus is Cloud Engineering, automation and applied AI for **energy, oil and gas, and industry**. I am interested in applying these capabilities to operations, industrial maintenance and technical projects.
 
-## What I Can Help With
+## Technical focus
 
-- Build AI-assisted workflows for project control, documentation and decision support
-- Integrate tools and systems through APIs and MCP
-- Automate repetitive technical and operational tasks
-- Improve speed and assertiveness using data and applied AI
-- Support cloud, software, engineering, operations and energy-related projects
+- **Cloud and DevOps:** AWS, cloud architecture, deployment and operations.
+- **Automation and integration:** Python, n8n, API development and integration, Git and GitHub.
+- **Generative AI:** AI agents, multi-agent systems, Large Language Models (LLM), Retrieval-Augmented Generation (RAG) and Model Context Protocol (MCP).
+- **Data analysis:** organizing and interpreting information to support decisions, documentation and process monitoring.
 
-## Current Development Path
+## Education
 
-- Postgraduate student in Electrical Engineering and Energy Systems since 04/2026
-- Developing practical work with cloud infrastructure, automation, AI agents and data workflows
-- Interested in energy systems, operational efficiency, analytics and the energy matrix
+- **Cloud Computing**, Anhanguera Educacional — January 2023 to December 2025.
+- **Postgraduate studies in Electrical Engineering and Energy Systems** — in progress since April 2026; expected completion: December 2026.
+- **Postgraduate studies in Artificial Intelligence in Industrial Maintenance**, Anhanguera Educacional — in progress; expected completion: December 2026.
 
-## Tech Stack
+## Selected work
 
-`AWS` `Python` `JavaScript` `React` `APIs` `MCP` `AI Agents` `AI Harness` `LLMs` `RAG` `Data Analysis` `Automation` `Cloud` `DevOps` `Energy Systems`
+- [AWS cloud training final project](https://github.com/rvidamasceno/AWS_CloudTreinamentos_Modulo10Final) — React application developed for an AWS cloud training program.
+- [Street mapping and web scraping](https://github.com/rvidamasceno/carroFumaceWebScraping) — Python project supporting public health and vector-control planning workflows.
 
 ---
 
-# Ravi Damasceno - Português
+## Sobre mim
 
-Engenharia de Software com IA | AWS | MCP | APIs | Agentes de IA | AI Harness | Análise de Dados | Sistemas de Energia | Matriz Energética
+Atuo com **Cloud Computing, automação de processos e Inteligência Artificial**, conectando infraestrutura, sistemas e dados. Desde junho de 2024, trabalho na **Konatus como Cloud & Automation Engineer, em estágio**.
 
-Eu desenvolvo soluções práticas de software, cloud, dados e automação com IA para aumentar a assertividade, reduzir retrabalho e acelerar a execução de projetos técnicos.
+Busco oportunidades em Cloud, automação e IA aplicada ao setor de **energia, óleo e gás e à indústria**, com interesse em transformação digital, eficiência operacional e desafios de manutenção industrial.
 
-Meu foco é conectar habilidades de TI com engenharia, operações e energia: AWS, APIs, MCP, agentes de IA, skills, AI Harness e análise de dados aplicados a entregas mais rápidas, rastreáveis e confiáveis.
+### Competências
 
-## Principais Skills
+- **Cloud e DevOps:** AWS, arquitetura de nuvem, implantação e operação de ambientes.
+- **Automação e integração:** Python, n8n, desenvolvimento e integração de APIs, Git e GitHub.
+- **IA generativa:** agentes de IA, sistemas multiagentes, LLM, RAG e MCP.
+- **Análise de dados:** organização e interpretação de informações para apoiar decisões e acompanhamento de processos.
 
-- AWS e Cloud: arquitetura, implantação, automação, escalabilidade e operação
-- Engenharia de Software com IA: LLMs, RAG, agentes, skills e AI Harness
-- MCP e APIs: integração entre sistemas, ferramentas, dados e agentes de IA
-- Análise de Dados: organização de dados, indicadores e apoio a decisões mais precisas
-- Sistemas de Energia: engenharia elétrica, sistemas de energia, eficiência e matriz energética
-- Eficiência em Projetos: mais rapidez, melhor rastreabilidade e decisões técnicas mais assertivas
+### Formação
 
-## Como Posso Contribuir
+- **Computação em Nuvem**, Anhanguera Educacional — janeiro de 2023 a dezembro de 2025.
+- **Pós-graduação em Engenharia Elétrica e de Sistemas de Energia** — em andamento desde abril de 2026; conclusão prevista para dezembro de 2026.
+- **Pós-graduação em Inteligência Artificial na Manutenção Industrial**, Anhanguera Educacional — em andamento; conclusão prevista para dezembro de 2026.
 
-- Criar fluxos assistidos por IA para controle, documentação e acompanhamento de projetos
-- Integrar ferramentas e sistemas com APIs e MCP
-- Automatizar tarefas técnicas e operacionais repetitivas
-- Aumentar a rapidez e a assertividade com dados e IA aplicada
-- Apoiar projetos de cloud, software, engenharia, operações e energia com soluções digitais
-
-## Desenvolvimento Atual
-
-- Pós-graduando em Engenharia Elétrica e de Sistemas de Energia desde 04/2026
-- Evoluindo em infraestrutura cloud, automação, agentes de IA, AI Harness e análise de dados
-- Interesse em sistemas de energia, eficiência operacional, matriz energética e projetos técnicos
-
-## Links
-
-- LinkedIn: https://www.linkedin.com/in/ravidamasceno/
+**Salvador, BA | Disponível para oportunidades presenciais, híbridas e remotas.**
